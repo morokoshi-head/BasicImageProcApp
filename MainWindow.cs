@@ -24,8 +24,6 @@ namespace BasicImageProcApp
 
     public partial class MainWindow : Form
     {
-        //private const int bitWidth = 8;
-
         private Color[] ChartColor = new Color[(int)Channel.Num] { Color.Blue, Color.Green, Color.Red };
 
         private Mat inputImage;
