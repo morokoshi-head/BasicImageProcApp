@@ -31,7 +31,9 @@ namespace BasicImageProcApp
 
         private ImageProc imageProc;
 
-
+        /// <summary>
+        /// コンストラクタ
+        /// </summary>
         public MainWindow()
         {
             InitializeComponent();
